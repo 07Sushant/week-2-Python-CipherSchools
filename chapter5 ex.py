@@ -7,3 +7,5 @@ def divide(a,b):
         print(err)
     except TypeError as err:
         print(divide(10,2))
+        
+#         Sushant
