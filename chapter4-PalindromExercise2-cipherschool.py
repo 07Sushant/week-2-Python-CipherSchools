@@ -7,3 +7,4 @@ def is_palindrom(word):
 
 print(is_palindrom("naman"))
 print(is_palindrom("horse"))
+# sushant
